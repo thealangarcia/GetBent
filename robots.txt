@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://thealangarcia.github.io/GetBent/sitemap.xml
